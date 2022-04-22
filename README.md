@@ -13,12 +13,6 @@ Use it as you want
 - Ease of Use.
 - Flutter
 
-## Screenshots
-<img src="img/1.png"  height="500" align="right">
-<center><img src="img/2.png"  height="500"> </center>
-<img src="img/3.png"  height="500"align="right">
-<img src="img/4.png"  height="500">
-
 ## For Support
 For support, send an email to oguzhancart1@gmail.com or you are invited to our telegram channel https://t.me/vsform_tr  
 ## Codpen.io
